@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Responsive Complete
 ## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
 ### Portfolio Responsive Complete
@@ -12,3 +13,7 @@
 
 ![preview img](/preview.png)
 
+=======
+# Portfolio-website
+This portfolio website is designed to present my development work, highlight my technical skills, and provide an easy way for recruiters and collaborators to explore my projects.
+>>>>>>> 8ca1e06d3b90188ae94d6214082361652aebb5fd
